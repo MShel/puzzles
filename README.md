@@ -1,7 +1,3 @@
-# Interview prep material #
-
-Here will be all the materials I work on to remind/learn the allgos
-
 ## Folder structure
 * graphs
   * Binary Trees
