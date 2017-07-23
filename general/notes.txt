@@ -1,0 +1,10 @@
+1. Ask questions
+2. example to be large avoid special cases
+3. do bruteforce algorythm
+4. lookout for BUD(bottlenecks unnecessary work Duplicates)
+5. lots of problems need precalculations and hash tables
+6. Modularize you problem top bottom
+7. think through the bug case, not just fix it
+8. go bottom up
+9. cut a problem in half and solve each half
+10. use a stack

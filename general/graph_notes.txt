@@ -1,0 +1,2 @@
+Usually BFS is better for finding the minimum length of shortest path
+while DFS is better for finding the actual shortest path.
